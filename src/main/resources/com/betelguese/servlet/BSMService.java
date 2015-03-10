@@ -47,7 +47,7 @@ public final class BSMService extends HttpServlet {
 		// request, response);
 		// response.setContentType("text/html;charset=UTF-8");
 		 PrintWriter out = response.getWriter();
-		 out.println(serverProcessedService);
+		 out.println("tuman");
 	}
 
 	/**
